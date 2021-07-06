@@ -1,8 +1,8 @@
 # MakiMoon Contracts
 
-🍣  MakiMoon 🍣
+🍣  $MAKI 🍣
 
-A first of its kind deflationary static/reflective rewards token exclusively available on Harmony via SushiSwap providing frictionless yield generation with an NFT burn mechanism and governance DAO.
+The deflationary token with auto-rewards that governs our ecosystem. All our products generate fees which in turn will be used to enhance the value of $MAKI for the community. 
 
 🦉  Links 🦉
 
